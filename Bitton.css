@@ -1,0 +1,21 @@
+div#Heading-Plate {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+}
+span.Options li {
+    font-size: 40px;
+    display: inline;
+    padding: 20px;
+}
+span.Options li:hover {
+    background-color: gray;
+}
+div.Gallery {
+    display: flex;
+    justify-content: inline;
+    padding: 20px;
+}
+div.Gallery img {
+    padding-left: 20px;
+}
